@@ -1,1 +1,3 @@
- <h1>Hi my name is Kibet Ken 
+ Hi 👋 it's me Kibet Ken 
+
+<h1>About me 
